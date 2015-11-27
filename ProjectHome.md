@@ -1,0 +1,3 @@
+Zelda Classic is a tribute to (what we think is) the greatest video game of all time: Nintendo's The Legend of Zelda. It has been developed into an exact replica of the NES version that we all know and love. Beyond that, Zelda Classic allows the development of new quests that can use either the traditional graphics or enhanced graphics, as well as new enemies, items, and challenges.
+
+Though it was started as a basic Legend of Zelda clone by programmer Phantom Menace in April of 1999, Zelda Classic has grown into something much bigger in the past few years. A full LOZ replica was achieved by June of 2000, with Zelda Classic version 1.84, but the story didnt end there. Although Phantom Menace moved on to other projects, Fans of Zelda Classic wanted more.
